@@ -1,0 +1,14 @@
+sas 0
+ai 0
+si 0
+babo 0
+Knut 0
+Truls 1
+Truls 0
+Knut 1
+Truls 0
+Knut 2
+Truls 1
+Knut 2
+Bango 1
+aI 0
